@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/prog2.dir/main.c.o CMakeFiles/prog2.dir/alphabetcountmulthreads.c.o CMakeFiles/prog2.dir/testmulthreads.c.o  -o prog2 
